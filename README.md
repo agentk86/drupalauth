@@ -1,5 +1,11 @@
 # drupalauth
 
+This is a fork of the original project located here: https://code.google.com/p/drupalauth/
+
+The aim of this fork is to provide a drop-in replacement for sites which need more functionality or flexibility in their IDP.
+
+- - -
+
 Drupal + SimpleSAMLphp + drupalauth = Complete SAML Identity Provider (IdP)
 
 Users interact with Drupal to create accounts, manage accounts, and authenticate. SAML SPs interact with SimpleSAMLphp. Drupalauth ties Drupal to SimpleSAMLphp.
